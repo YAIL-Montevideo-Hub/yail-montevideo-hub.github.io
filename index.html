@@ -12,15 +12,30 @@
       background: #f4f4f4;
       color: #333;
     }
+    .wip-banner {
+      background-color: #ffcc00;
+      color: #000;
+      padding: 1em;
+      text-align: center;
+      font-weight: bold;
+      font-size: 1.2em;
+      margin: 0;
+    }
     header {
       background-color: #4b0082;
       color: white;
-      padding: 1em;
+      padding: 0.5em;
       text-align: center;
     }
     header img {
       max-height: 100px;
       margin-bottom: 10px;
+    }
+    header h1 {
+      margin: 0 0 0.5em 0;
+    }
+    header p {
+      margin: 0;
     }
     main {
       padding: 2em;
@@ -55,11 +70,14 @@
 </head>
 <body>
 
+<div class="wip-banner">
+  🚧 This website is a work in progress – stay tuned for updates!
+</div>
+
 <header>
-  <!-- Replace the src with your actual logo path -->
-  <img src="logo.png" alt="Hub Logo">
+  <!-- <img src="logo.png" alt="Hub Logo"> -->
   <h1>AI for Good – Montevideo Hub</h1>
-  <p>Young AI Leaders Uruguay 🇺🇾</p>
+  <p>Young AI Leaders Montevideo Hub 🇺🇾</p>
 </header>
 
 <main>
@@ -103,10 +121,10 @@
     <h2>👥 Members</h2>
 
     <div class="member">
-      <h3>🌟 Member Name</h3>
-      <p><strong>Role:</strong> Team Lead / Developer / Researcher</p>
-      <p><strong>Focus:</strong> NLP, Data Ethics, Sustainability</p>
-      <p><strong>Bio:</strong> Short description about this person and their work in the hub.</p>
+      <h3>🌟 Marcelo Martínez</h3>
+      <p><strong>Role:</strong> Team Lead </p>
+      <p><strong>Focus:</strong> NLP, Sustainability</p>
+      <p><strong>Bio:</strong> Leading the hub since July</p>
     </div>
 
     <!-- Copy and paste more .member blocks as needed -->
@@ -115,22 +133,6 @@
   <section>
     <h2>🧠 Projects</h2>
 
-    <div class="project">
-      <h3>📄 CV Parser with NLP</h3>
-      <p><strong>Description:</strong> An NLP tool to analyze and match CVs with job opportunities for underserved communities.</p>
-      <p><strong>Status:</strong> In progress</p>
-      <p><strong>Technologies:</strong> Python, Transformers, Streamlit</p>
-    </div>
-
-    <div class="project">
-      <h3>🔍 Job Scraper</h3>
-      <p><strong>Description:</strong> A scraper to collect and structure job listings from websites and match them with user profiles.</p>
-      <p><strong>Status:</strong> Completed</p>
-      <p><strong>Technologies:</strong> BeautifulSoup, Pandas, Hugging Face</p>
-    </div>
-
-    <!-- Add more .project blocks here -->
-  </section>
 
   <section>
     <h2>📫 Contact</h2>
@@ -140,7 +142,7 @@
 </main>
 
 <footer>
-  © 2025 AI for Good – Montevideo Hub. Made with 💜 in Uruguay.
+  Made with 💜 in Uruguay.
 </footer>
 
 </body>
