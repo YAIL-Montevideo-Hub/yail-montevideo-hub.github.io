@@ -3,17 +3,17 @@ current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/ve
 creating Makefile
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-juz888 sitelibdir\=./.gem.20250816-42146-juz888 clean
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-amybt7 sitelibdir\=./.gem.20250902-18102-amybt7 clean
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-juz888 sitelibdir\=./.gem.20250816-42146-juz888
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-amybt7 sitelibdir\=./.gem.20250902-18102-amybt7
 compiling ruby_http_parser.c
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.so
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-juz888 sitelibdir\=./.gem.20250816-42146-juz888 install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250816-42146-juz888
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-amybt7 sitelibdir\=./.gem.20250902-18102-amybt7 install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250902-18102-amybt7
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-juz888 sitelibdir\=./.gem.20250816-42146-juz888 clean
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-amybt7 sitelibdir\=./.gem.20250902-18102-amybt7 clean

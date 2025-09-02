@@ -28,17 +28,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-1n93wk sitelibdir\=./.gem.20250816-42146-1n93wk clean
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-l3iit sitelibdir\=./.gem.20250902-18102-l3iit clean
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-1n93wk sitelibdir\=./.gem.20250816-42146-1n93wk
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-l3iit sitelibdir\=./.gem.20250902-18102-l3iit
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-1n93wk sitelibdir\=./.gem.20250816-42146-1n93wk install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250816-42146-1n93wk
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-l3iit sitelibdir\=./.gem.20250902-18102-l3iit install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250902-18102-l3iit
 
 current directory: /home/marcelo/Desktop/Python/yail-montevideo-hub.github.io/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20250816-42146-1n93wk sitelibdir\=./.gem.20250816-42146-1n93wk clean
+make DESTDIR\= sitearchdir\=./.gem.20250902-18102-l3iit sitelibdir\=./.gem.20250902-18102-l3iit clean
