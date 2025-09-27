@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'AI For Good - YAIL Montevideo'
-description: null
+description: "testing"
 image: null
 author: null
 show_tile: false
