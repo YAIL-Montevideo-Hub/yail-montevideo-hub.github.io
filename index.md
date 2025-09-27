@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'IA para bien social'
+landing-title: 'AI For Good - YAIL Montevideo'
 description: null
 image: null
 author: null

@@ -9,16 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Test1</p>
-	</div>
-</section>
-
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -71,14 +61,6 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>email</h2>
-		</header>
-		<p>Landing</p>
-	</div>
-</section>
+
 
 </div>
