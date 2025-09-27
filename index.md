@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hub de Montevideo'
+landing-title: 'IA para bien social'
 description: null
 image: null
 author: null

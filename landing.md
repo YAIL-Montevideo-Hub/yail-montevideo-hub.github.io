@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Proyectos
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description:
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -75,12 +75,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>email</h2>
 		</header>
 		<p>Landing</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
 	</div>
 </section>
 

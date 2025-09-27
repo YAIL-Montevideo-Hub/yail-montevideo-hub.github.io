@@ -7,9 +7,11 @@
 /* Image */
 
 img {
-    display: none !important; /* Hide all images */
+    display: block; /* Allow images to display */
+    max-width: 100%;
+    height: auto;
 }
 
 .image {
-		display: none !important; /* Hide all image containers */
+		display: block; /* Allow image containers to display */
 }
